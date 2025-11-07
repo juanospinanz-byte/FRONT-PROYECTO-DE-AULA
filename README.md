@@ -35,26 +35,29 @@ El proyecto Front esta conectada con el proyecto Springboot y tiene las mismas f
 
 ## Capturas
 ### agregar vehiculo
-<img width="1919" height="1012" alt="imagen" src="https://github.com/user-attachments/assets/5847b0d0-c3d0-49c3-8232-6ea696c41bb1" />
+<img width="1919" height="1013" alt="imagen" src="https://github.com/user-attachments/assets/713dff20-9ea5-4c4e-b6bf-f7ab18a45eb7" />
+
 
 ### editar vehiculo
-<img width="1912" height="918" alt="imagen" src="https://github.com/user-attachments/assets/920a16d3-b81d-4f6f-b171-0dd99b49cd85" />
-<img width="1919" height="1016" alt="imagen" src="https://github.com/user-attachments/assets/4212dccc-b077-4630-8edd-c42ad7b0ec4e" />
+<img width="1919" height="1013" alt="imagen" src="https://github.com/user-attachments/assets/9c4d8895-51ca-46f7-ba73-0ddd74fcdfcd" />
+<img width="1919" height="1017" alt="imagen" src="https://github.com/user-attachments/assets/5bb56bfe-48a4-4956-b430-ca05c212f860" />
+
 
 ### eliminar vehiculo
-<img width="1919" height="997" alt="imagen" src="https://github.com/user-attachments/assets/77699f9b-9d99-41f5-a4cd-1141a0141a6f" />
-<img width="1899" height="900" alt="imagen" src="https://github.com/user-attachments/assets/cf00dc27-8027-4a21-82d2-7f4c4641dbe3" />
+<img width="1919" height="1005" alt="imagen" src="https://github.com/user-attachments/assets/d38172d5-b248-4d9c-bf4c-e49fd1debe45" />
+<img width="1908" height="1011" alt="imagen" src="https://github.com/user-attachments/assets/1bdcf4bc-a023-4cf9-929f-f2b8efb050b6" />
 
 ### agregar moto
-<img width="1919" height="999" alt="imagen" src="https://github.com/user-attachments/assets/e4f5b628-db31-4f9b-af9c-5e3816884334" />
+<img width="1919" height="1006" alt="imagen" src="https://github.com/user-attachments/assets/2987e858-fb4c-4148-8096-a33ce9eb8c86" />
 
 ### editar moto
-<img width="1919" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/25c1d9dd-81b3-44a2-a01e-30ec513bcd13" />
-<img width="1919" height="1011" alt="imagen" src="https://github.com/user-attachments/assets/66e2dc77-1dc8-4499-994a-0043824e1eff" />
+<img width="1919" height="1008" alt="imagen" src="https://github.com/user-attachments/assets/1df0ef88-bf1e-4115-accf-39a9d3b44e65" />
+<img width="1919" height="1011" alt="imagen" src="https://github.com/user-attachments/assets/c3fcd8a9-a884-485f-bdf2-933df51441b8" />
 
 ### eliminar moto
-<img width="1919" height="1014" alt="imagen" src="https://github.com/user-attachments/assets/8ecf0136-d8ec-40db-8ff7-38ea326e3c1e" />
-<img width="1919" height="1010" alt="imagen" src="https://github.com/user-attachments/assets/08d3d562-6e2a-4625-958f-6b548f74a9da" />
+<img width="1913" height="1005" alt="imagen" src="https://github.com/user-attachments/assets/c0db11a8-7b4f-4622-b3df-e6ac5a802561" />
+<img width="1919" height="997" alt="imagen" src="https://github.com/user-attachments/assets/49a5d588-0d77-4f49-ba0c-f3ccb5f9bfb6" />
+
 
 
 
