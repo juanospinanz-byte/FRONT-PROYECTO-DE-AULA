@@ -4,6 +4,7 @@
 Este proyecto es la interfaz frontend del sistema del springboot de vehículos y motos, este fue desarrollado con Vite y el objetivo principal del frontend es usar para ponerinformacion de carros y motos incluyendo las fotos y cumple con la funcion del springboot de poner el nombre, modelo y año.
 
 ---
+
 ## Objetivos 
 - Permitir la visualización, registro, modificación y eliminación de datos de vehículos y motos agregados
 - Permitir agregar los datos de los vehiculos y de las motos
