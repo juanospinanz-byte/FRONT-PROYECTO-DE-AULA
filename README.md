@@ -29,7 +29,7 @@ Para acceder al proyecto en el navegador cuando esta ejecutandose, primero hay q
 ---
 
 ## Informacion de que se hizo en el front 
-El proyecto Front esta conectada con el proyecto Springboot y tiene las mismas funciones que son el marca, modelo y año que en el cual se le puso primero en el SpringBoot y despues se le puso en el Front y asi para que pudiera funcionar correctamente al estar conectado los dos proyectos y asi que se pudiera agregar correctamente los carros y motos
+El proyecto Front esta conectada con el proyecto Springboot y tiene las mismas funciones que son el marca, modelo y año que en el cual se le puso primero en el Spring Boot y despues se le puso en el Front y asi para que pudiera funcionar correctamente al estar conectado los dos proyectos y asi que se pudiera agregar correctamente los carros y motos
 
 ---
 
