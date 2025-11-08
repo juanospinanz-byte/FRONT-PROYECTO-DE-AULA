@@ -1,7 +1,7 @@
 # Proyecto Front
 
 ## Descripción 
-Este proyecto es un frontend del sistema del springboot de vehículos y motos, este fue desarrollado con Vite y el objetivo principal del frontend es usar para ponerinformacion de carros y motos incluyendo las fotos y cumple con la funcion del springboot de poner el nombre, modelo y año.
+Este proyecto es un frontend del sistema del springboot de vehículos y motos, este fue desarrollado con Vite, se puede, crear, editar y eliminar información de vehículo y de moto, con solo poner los datos que se pide ya se estaria creando y despues de so uno ya podrie editar la informacion que haya puesto anteriormente
 
 ---
 
