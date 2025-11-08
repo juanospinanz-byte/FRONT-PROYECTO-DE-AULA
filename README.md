@@ -1,7 +1,7 @@
 # Proyecto Front
 
 ## Descripción 
-Este proyecto es un front de vehiculos y motos en el cual fue desarrollado con Vite, en este proyecto front se hizo despues de haber hecho el proyecto backend Sring Boot, este proyecto front se puede crear, editar y eliminar información de vehículo y moto, con solo poner los datos que se pide ya se estaria creando y despues de eso uno ya podria editar la informacion que haya puesto anteriormente y tambien uno tendra la opcion de eliminarlo
+Este proyecto es un front de vehiculos y motos en el cual fue desarrollado con Vite, en este proyecto front se hizo despues de haber hecho el proyecto backend SringBoot, este proyecto front se puede crear, editar y eliminar información de vehículo y moto, con solo poner los datos que se pide ya se estaria creando y despues de eso uno ya podria editar la informacion que haya puesto anteriormente y tambien uno tendra la opcion de eliminarlo
 
 ---
 
