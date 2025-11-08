@@ -19,7 +19,7 @@ Permitir la visualización, registro, modificación y eliminación de datos de v
 
 ## Estructura del proyecto
 
-<img width="363" height="562" alt="imagen" src="https://github.com/user-attachments/assets/4451e4ee-b5d4-43aa-bf71-b2ccfabc320f" />
+<img width="338" height="589" alt="imagen" src="https://github.com/user-attachments/assets/2624a590-06ff-4346-963a-6c5cb2cad673" />
 
 ---
 
