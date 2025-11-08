@@ -24,7 +24,7 @@ Permitir la visualización, registro, modificación y eliminación de datos de v
 ---
 
 ## Como acceder en el navegador
-Para acceder al proyecto en el navegador cuando esta ejecutandose, primero hay que ejecutar el proyecto SpringBoot y dspues hay que poner el siguente limk en el buscador: http://localhost:3000.
+Para acceder al proyecto en el navegador cuando esta ejecutandose, primero hay que ejecutar el proyecto SpringBoot y dspues hay que poner el siguente link en el buscador: http://localhost:3000.
 
 ---
 
