@@ -1,7 +1,7 @@
 # Proyecto Front
 
 ## Descripción 
-Este proyecto es un front de vehículos y motos en el cual fue desarrollado con Vite, en este proyecto front se puede crear, editar y eliminar información de vehículo y moto, con solo poner los datos que se pide ya se estaria creando y despues de so uno ya podrie editar la informacion que haya puesto anteriormente
+Este proyecto es un front de vehículos y motos en el cual fue desarrollado con Vite, en este proyecto front se puede crear, editar y eliminar información de vehículo y moto, con solo poner los datos que se pide ya se estaria creando y despues de eso uno ya podrie editar la informacion que haya puesto anteriormente y tambien uno tendra la opcion de eliminarlo
 
 ---
 
