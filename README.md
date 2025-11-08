@@ -59,12 +59,3 @@ El proyecto Front esta conectada con el proyecto Springboot y tiene las mismas f
 <img width="1919" height="997" alt="imagen" src="https://github.com/user-attachments/assets/49a5d588-0d77-4f49-ba0c-f3ccb5f9bfb6" />
 
 
-
-
-
-
-
-
-
-
-
