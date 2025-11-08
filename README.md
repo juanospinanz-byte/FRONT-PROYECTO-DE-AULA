@@ -5,9 +5,8 @@ Este proyecto es la interfaz frontend del sistema del springboot de vehículos y
 
 ---
 
-## Objetivos 
-- Permitir la visualización, registro, modificación y eliminación de datos de vehículos y motos agregados
-- Permitir agregar los datos de los vehiculos y de las motos
+## Objetivo
+Permitir la visualización, registro, modificación y eliminación de datos de vehículos y motos agregado, poder permitir agregar los datos de los vehiculos y de las motos, poder poner la foto del vehiculo o de la moto cuando uno esta agregando los datos asi para que se pueda mostrar cual fue el vehiculo o moto que uno agrego
 
 ---
 
